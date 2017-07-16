@@ -76,7 +76,7 @@ exit();
 											echo '
 											<tr>
 											<td>'.$row['mtitle'].'</td>
-											<td>'.$row['logo_icons'].' : Font Awesome</td>
+											<td>'.$row['logo_icons'].'</td>
 											<td>'.$row['ctitle'].'</td>
 											<td>'.html_entity_decode(substr($row['info'],0,50)).' ......</td>
 											<td>'.html_entity_decode($row['footer']).'</td>
@@ -163,7 +163,7 @@ exit();
                                                 <tr>
                                                 <td>'.$number.'</td>
                                                 <td>'.$row['stitle'].'</td>
-                                                <td>'.$row['icons'].': Font Awesome</td>
+                                                <td>'.$row['icons'].'</td>
                                                 <td>'.$row['links'].'</td>
                                                 </tr>';
                                                 $number++;
