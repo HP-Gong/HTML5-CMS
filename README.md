@@ -13,7 +13,8 @@ You can view and also download the admin design template <a href="http://coreui.
 For the Text Editor, I used TinyMce. 
 You can view and also download the Text Editor <a href="https://www.tinymce.com/" target="_blank">here</a>
 
-I created/design the html5-cms.pdf instruction file and also attached the design CMS logo PSD file from the backend.  
+I created/design the html5-cms.pdf instruction file and also attached the design Icon PSD for icon and also CMS logo PSD for the logo for the admin section
+
 You can read the html5-cms.pdf instruction before you can start to get familiar with the platform.
 
 These are the languages and software I used for the HTML5-CMS:
