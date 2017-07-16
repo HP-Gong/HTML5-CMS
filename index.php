@@ -11,6 +11,7 @@ echo '<title>'.$row1['mtitle'].'</title>';
 ?>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="images/favicon.png">   
 <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
 <link rel="stylesheet" type="text/css" href="bootstrap/css/font-awesome.css">
 <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
