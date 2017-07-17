@@ -1,7 +1,7 @@
 # html5-cms
 HTML5 design with a customize CMS
 
-The HTML5 CMS is a customize CMS for the this HTML5 design. 
+The HTML5 CMS is a customize CMS for this HTML5 design. 
 I implement the backend for this HTML5 design where the user can update the info and images on the website without any assistant. 
 
 For the Frontend design template, I used this design called Dimension. 
