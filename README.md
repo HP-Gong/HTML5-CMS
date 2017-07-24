@@ -21,6 +21,6 @@ These are the languages and software I used for the HTML5-CMS:
 
 Language: HTML5, CSS & PHP/PDO
 
-Software: Dreamweaver, Photoshop and Indesign
+Software: Atom, Photoshop and Indesign
 
 -- HP Gong
