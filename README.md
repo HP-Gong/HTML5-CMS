@@ -8,7 +8,7 @@ For the Frontend design template, I used this design called Dimension.
 You can view and download the design template <a href="https://html5up.net/dimension" target="_blank">here</a>
 
 For the Backend design template, I used CoreUI for the admin section. 
-You can view and also download the admin design template <a href="http://coreui.io/examples" target="_blank">here</a>
+You can view and also download the admin design template <a href="https://coreui.io/#live-preview" target="_blank">here</a>
 
 For the Text Editor, I used TinyMce. 
 You can view and also download the Text Editor <a href="https://www.tinymce.com/" target="_blank">here</a>
